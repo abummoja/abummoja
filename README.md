@@ -1,4 +1,10 @@
-## Hi there 👋
+# Abraham .M
+## Favorite Languages
+- Java
+- C#
+- Go
+
+- 🔭 I’m currently working on - Learning Go
 
 <!--
 **abummoja/abummoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

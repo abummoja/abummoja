@@ -1,4 +1,5 @@
 # Abraham .M
+Hi, I'm Abraham. I've been working primarily in java since late 2019 and C# since 2022. I'm now learning Go after trying out C++ and "shot my self in the foot". I'm self-taught but still pursuing computer science in college.
 ## Favorite Languages
 - Java
 - C#

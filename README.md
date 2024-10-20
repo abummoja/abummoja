@@ -1,7 +1,5 @@
 # Abraham .M
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e14b3990d3da49748268bb8215e156c0)](https://app.codacy.com/gh/abummoja/File-Studio/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/2cdaf50b908d6926dca73d6e5040972b)
-
 ![GitHub top language](https://img.shields.io/github/languages/top/abummoja/File-Studio?style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/abummoja/File-Studio?label=File-Studio)
 </br>Indie
